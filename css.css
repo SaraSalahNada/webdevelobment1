@@ -1,0 +1,52 @@
+body {
+     margin:0;
+     padding:0;
+}
+#header {
+    background-image: url('../img/computer.jpg');
+    height:100vh;
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+#column1 {
+    padding: 5px;
+}
+ 
+.learn {
+    background-color:#e7e7e7;
+}
+.learn .learn-content {
+    background-color: white;
+    padding: 15px;
+}
+.title {
+    margin:10px 0px ;
+
+}
+.block {
+    margin:10px 0px;
+
+}
+.about {
+    display: block;
+    margin: auto;
+	width: 120px;
+	height: 120px;
+}
+#contact {
+    margin:15px;
+    border-right:2px solid #e7e7e7;
+
+}
+.col-5 m-auto learn-content p{
+	                     color: #fff;
+						 text-align: center;
+						 font-size: 40px;
+	
+}
+
+.col-4 {
+     margin-left: 35%;
+}
+
